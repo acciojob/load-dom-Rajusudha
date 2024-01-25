@@ -7,6 +7,6 @@
     //   document.body.innerHTML = ''; // Clear the body content
     //   document.body.appendChild(messageParagraph);
     // });
-document.addEventListener("DOMContentLoaded",(){
+document.addEventListener("DOMContentLoaded",()=>{
 	document.body.innerText="DOM load success";
 });
